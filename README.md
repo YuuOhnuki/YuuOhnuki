@@ -2,24 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=YuuOhnuki)
 
-<p align="left">
-  <a href="https://github.com/YuuOhnuki">
-    <img height="20" src="https://komarev.com/ghpvc/?username=YuuOhnuki" />
-  </a>
-  <a href="https://github.com/YuuOhnuki">
-    <img height="20" src="https://img.shields.io/github/followers/YuuOhnuki?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/YuuOhnuki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/YuuOhnuki/posts.svg" />
-  </a>
-  <a href="http://qiita.com/YuuOhnuki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/YuuOhnuki/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/YuuOhnuki">
-    <img height="20" src="https://badgen.org/img/zenn/YuuOhnuki/articles?style=plastic" />
-  </a>
-</p>
-
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuuOhnuki&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuuOhnuki&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuuOhnuki&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuuOhnuki&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuuOhnuki&theme=tokyonight&utcOffset=9)
 
 <!--
 **YuuOhnuki/YuuOhnuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
